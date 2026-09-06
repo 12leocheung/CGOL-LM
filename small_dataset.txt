@@ -1,0 +1,19 @@
+[
+    ["An", "entity", "can", "exist", "independently", "of", "other", "things."],
+    ["The", "physical", "world", "can", "be", "observed", "through", "our", "senses."],
+    ["Matter", "occupies", "space", "and", "has", "measurable", "properties."],
+    ["The", "statue", "was", "made", "from", "a", "solid", "material."],
+    ["The", "rock", "was", "an", "inanimate", "object."],
+    ["The", "forest", "is", "a", "natural", "environment."],
+    ["The", "telescope", "revealed", "a", "distant", "celestial", "object."],
+    ["Earth", "is", "a", "rocky", "planet."],
+    ["The", "landscape", "is", "distinctly", "terrestrial."],
+    ["The", "astronauts", "photographed", "Earth", "from", "orbit."],
+    ["Mars", "has", "a", "thin", "atmosphere."],
+    ["Jupiter", "is", "a", "massive", "gas_giant."],
+    ["Jupiter", "is", "the", "largest", "planet", "in", "our", "solar", "system."],
+    ["Saturn", "is", "famous", "for", "its", "rings."],
+    ["The", "night", "sky", "was", "filled", "with", "stars."],
+    ["The", "Sun", "is", "a", "main_sequence", "star."],
+    ["The", "Sun", "provides", "light", "and", "heat", "to", "Earth."]
+]
